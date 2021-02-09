@@ -1,0 +1,22 @@
+.post .post_content a {
+  text-decoration: none;
+  letter-spacing: 1px;
+  color: #0974cc;
+}
+
+.post .post_content a:hover {
+  color: #06487F;
+}
+
+.markdown em {
+  padding: 1px 2px;
+  background-color: #ffffff;
+  font-weight: normal;
+}
+
+.markdown strong,
+.markdown b {
+  padding: 1px 2px;
+  background-color: #ffffff;
+  font-weight: bold;
+}
